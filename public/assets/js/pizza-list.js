@@ -34,7 +34,6 @@ const printPizza = ({ _id, pizzaName, toppings, size, commentCount, createdBy, c
       </div>
     </div>
   `;
-  
 
   $pizzaList.innerHTML += pizzaCard;
 };
